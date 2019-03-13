@@ -1,2 +1,3 @@
-# AtlanticChallengerSensorUnit
-Atlantic Challenger RPM sensor unit
+# Atlantic Challenger Sensor Unit
+
+Read More on my blog: 
