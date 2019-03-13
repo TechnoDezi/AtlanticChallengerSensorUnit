@@ -1,0 +1,15 @@
+C:\Users\Techn\Development\Git Projects\Challenger Sensors\Challenger.Desktop\Challenger.Desktop\bin\Debug\Challenger.Desktop.exe.config
+C:\Users\Techn\Development\Git Projects\Challenger Sensors\Challenger.Desktop\Challenger.Desktop\bin\Debug\Challenger.Desktop.exe
+C:\Users\Techn\Development\Git Projects\Challenger Sensors\Challenger.Desktop\Challenger.Desktop\bin\Debug\Challenger.Desktop.pdb
+C:\Users\Techn\Development\Git Projects\Challenger Sensors\Challenger.Desktop\Challenger.Desktop\obj\Debug\Challenger.Desktop.csprojAssemblyReference.cache
+C:\Users\Techn\Development\Git Projects\Challenger Sensors\Challenger.Desktop\Challenger.Desktop\obj\Debug\Challenger.Desktop.Form1.resources
+C:\Users\Techn\Development\Git Projects\Challenger Sensors\Challenger.Desktop\Challenger.Desktop\obj\Debug\Challenger.Desktop.Properties.Resources.resources
+C:\Users\Techn\Development\Git Projects\Challenger Sensors\Challenger.Desktop\Challenger.Desktop\obj\Debug\Challenger.Desktop.csproj.GenerateResource.cache
+C:\Users\Techn\Development\Git Projects\Challenger Sensors\Challenger.Desktop\Challenger.Desktop\obj\Debug\Challenger.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\Techn\Development\Git Projects\Challenger Sensors\Challenger.Desktop\Challenger.Desktop\obj\Debug\Challenger.Desktop.exe
+C:\Users\Techn\Development\Git Projects\Challenger Sensors\Challenger.Desktop\Challenger.Desktop\obj\Debug\Challenger.Desktop.pdb
+C:\Users\Techn\Development\Git Projects\Challenger Sensors\Challenger.Desktop\Challenger.Desktop\bin\Debug\AGauge.dll
+C:\Users\Techn\Development\Git Projects\Challenger Sensors\Challenger.Desktop\Challenger.Desktop\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Techn\Development\Git Projects\Challenger Sensors\Challenger.Desktop\Challenger.Desktop\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Techn\Development\Git Projects\Challenger Sensors\Challenger.Desktop\Challenger.Desktop\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Techn\Development\Git Projects\Challenger Sensors\Challenger.Desktop\Challenger.Desktop\obj\Debug\Challenger.Desktop.csproj.CopyComplete
